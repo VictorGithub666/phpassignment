@@ -39,6 +39,10 @@
 # Differences
 # 1. Traits cannot be instanciated hence can be used to inject methods into classes
 # 2. Traits provide actual methods with actual code that can be used inside classes while interfaces only define the methods without the code
+![Example Image](/traits.JPG)
+
+
+
 
 
 # Static Methods & Properties
@@ -49,8 +53,8 @@
 # 1. Used for singleton design patterns to ensure that only one instance of a class exists during execution.
 # 2. Can be used to keep track of global information.
 # 3. Can hold configuration values or settings that need to be shared across the class without needing to instantiate it.
+![Example Image](/static.JPG)
 
-![Example Image](/traits.JPG)
 
 
 
@@ -73,6 +77,11 @@
 # Importance
 # 1. Helps in avoiding naming conflicts.
 # 2. Organizes code in grouping related functionality together.
+![Example Image](/namespaces.JPG)
+
+
+
+
 
 # Iterables
 
@@ -81,4 +90,4 @@
 # Applications
 # 1. Can be used in looping over data structures.
 # 2. Can be used to iterate over large data sets without loading everything into memory at once.
-![Example Image](/namespaces.JPG)
+![Example Image](/iterator.php)
