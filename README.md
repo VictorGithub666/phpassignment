@@ -90,4 +90,4 @@
 # Applications
 # 1. Can be used in looping over data structures.
 # 2. Can be used to iterate over large data sets without loading everything into memory at once.
-![Example Image](/iterator.php)
+![Example Image](/iterator1.JPG)
